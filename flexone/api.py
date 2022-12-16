@@ -42,9 +42,10 @@ def import_arabic_translation():
 
 
 def configure_app():
-	disable_registration()
-	configure_email()
-	configure_systemsettings()
+	pass
+	# disable_registration()
+	# configure_email()
+	# configure_systemsettings()
 
 
 def configure_domain():
