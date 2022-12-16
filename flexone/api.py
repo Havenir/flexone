@@ -43,10 +43,9 @@ def import_arabic_translation():
 
 def configure_app():
 	disable_registration()
-	disable_marketplace()
 	configure_email()
 	configure_systemsettings()
-	
+
 
 def configure_domain():
 	try:
